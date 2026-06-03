@@ -4,6 +4,10 @@ This directory contains archived LumiROM releases for the Samsung Galaxy A32.
 ## Mirror Link
 https://mega.nz/file/Vc9CTTAR#QcTCQAx_luoRDk-sOTgp3s1lGL6LOpEDQBr_9H31MfE
 
+**FileName**- "LumiROM_8.6.2-12052026_a32.zip"
+
+**SHA 256:** 
+>dbdee40afecf25d2bdb0622e2a04a7b292821aa3f1c732f26cfc67ab7ff56433
 ## Purpose
 
 The goal of this archive is to preserve publicly released LumiROM builds and associated information after the original project resources became unavailable.
