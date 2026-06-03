@@ -1,6 +1,8 @@
 # LumiROM Releases
 
 This directory contains archived LumiROM releases for the Samsung Galaxy A32.
+## Mirror Link
+https://mega.nz/file/Vc9CTTAR#QcTCQAx_luoRDk-sOTgp3s1lGL6LOpEDQBr_9H31MfE
 
 ## Purpose
 
