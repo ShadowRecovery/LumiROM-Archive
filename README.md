@@ -8,6 +8,20 @@ All credit for LumiROM belongs to Luminous418 and contributors.
 
 This repository exists solely to preserve publicly released files, documentation, changelogs, and community knowledge after the original project's resources became unavailable.
 
+## Community
+
+| Resource | Purpose |
+|-----------|----------|
+| Telegram Announcements | Archive updates, releases, mirrors, project status |
+| Telegram Discussion Group | Community discussion, troubleshooting, contributions |
+
+### Links
+
+**Announcements**
+https://t.me/+EN65IOIQqItlhNzBk
+
+**Discussion Group**
+https://t.me/+fIKM8xvcF8syYmQ0
 ## Status
 
 LumiROM development is currently inactive.
