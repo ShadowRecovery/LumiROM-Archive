@@ -17,11 +17,11 @@ This repository exists solely to preserve publicly released files, documentation
 
 ### Links
 
-**Announcements**
-https://t.me/+EN65IOIQqItlhNzBk
+### Announcements Channel
+https://t.me/LumiROMArchive
 
-**Discussion Group**
-https://t.me/+fIKM8xvcF8syYmQ0
+### Discussion Group
+https://t.me/LumiROMArchiveGroup
 ## Status
 
 LumiROM development is currently inactive.
