@@ -49,7 +49,7 @@ Please open an Issue or Pull Request if you would like to contribute.
 
 This repository serves as a preservation archive only.
 
-## Final Commnent—
+## Final Comment—
 LumiROM would not have existed without the work of Luminous418 and all contributors who spent countless hours developing, testing, maintaining, and supporting the project.
 
 Regardless of how the project ended, the community remains grateful for the time, effort, and passion that went into bringing new features and experiences to the Samsung Galaxy A32.
