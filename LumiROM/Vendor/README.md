@@ -3,12 +3,8 @@
 This directory contains information about vendor packages required by LumiROM releases.
 
 ## Mirror Link
-https://mega.nz/file/YAEjFIAY#HIqqRhLzVxU1mL1zFJHUyntjdPPHC2f9TJX1WmB2AtI
+https://www.1024tera.com/sharing/link?surl=PnKAskLybRJnoGBVaChC2A
 
-**FileName**- "LumiVENDOR_OneUi8.5-new-a32.zip"
-
-**SHA 256:** 
->6791a3ebe42e6413b086b2fbfa93009ed80bd11a7c05c4936d2dd32b678d3ec0
 ## What is a Vendor Package?
 
 A vendor package contains device-specific components required for proper operation of the ROM, including:
