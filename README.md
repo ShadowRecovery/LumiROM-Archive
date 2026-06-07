@@ -25,6 +25,20 @@ https://t.me/LumiROMArchiveGroup
 ## Status
 
 LumiROM development is currently inactive.
+
+## Archived Releases
+
+| Release | Status | Notes |
+|----------|----------|----------|
+| LumiROM S22 Definitive Edition A32 One UI 6.0 A14 | Preserved | *Vendor included in the mirror link* |
+| LumiROM v8.3.0 A32/A34 Port One UI 8 Galaxy AI | Preserved | *Vendor included in the mirror link* |
+| LumiROM v8.3.1 A32/A34 Port One UI 8 A16 | Preserved | *Vendor included in the mirror link* |
+| LumiROM v8.5.0 A32/A34 Port One UI 8.5 A16 | Preserved | *Vendor included in the mirror link* |
+| LumiROM v8.5.0 TEST A32/A15 Port One UI 8.5 A16 | Preserved | *Vendor included in the mirror link* |
+| LumiROM v8.5.5 A32/A34 Port One UI 8.5 A16 | Preserved | *Vendor included in the mirror link* |
+| LumiROM v8.6.0 One UI 8.5 A16 A32 | Preserved | *Vendor included in the mirror link* |
+| LumiROM v8.6.2 One UI 8.5 Stable A32 4G A325F | Preserved | Vendor package archived separately |
+   
    ### Known Facts (June 2026 onwards)
 
   - The original LumiROM GitHub repository is no longer publicly accessible and currently returns a 404 page.
