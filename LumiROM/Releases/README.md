@@ -10,9 +10,16 @@ The goal of this archive is to preserve publicly released LumiROM builds and ass
 
 ## Known Releases
 
-| Version | Status | Notes |
-|----------|---------|---------|
-| v8.6.2 Stable | Archived | Latest known public release |
+| Version / Build | Status | Notes |
+|---|---|---|
+| LumiROM v8.6.2 One UI 8.5 Stable A32 4G A325F *Vendor SEPERATE* | Archived | Latest known public release |
+| LumiROM v8.6.0 One UI 8.5 A16 A32; *Vendor Inside the directory* | Available via mirror | Older One UI 8.5 build |
+| LumiROM v8.5.5 A32/A34 Port One UI 8.5 A16 *Vendor Inside the directory* | Available via mirror | Older port build |
+| LumiROM v8.5.0 Test A32/A15 Port One UI 8.5 A16 *Vendor Inside the directory* | Available via mirror | Test build |
+| LumiROM v8.5.0 A32/A34 Port One UI 8.5 A16 *Vendor Inside the directory* | Available via mirror | Older port build |
+| LumiROM v8.3.1 A32/A34 Port One UI 8 A16 *Vendor Inside the directory* | Available via mirror | Older One UI 8 build |
+| LumiROM v8.3.0 A32/A34 Port One UI 8 Galaxy AI *Vendor Inside the directory* | Available via mirror | Older One UI 8 build |
+| LumiROM S22 Definitive Edition A32 One UI 6.0 A14 *Vendor Inside the directory* | Available via mirror | Older S22-style port |
 
 ## Release Contents
 
